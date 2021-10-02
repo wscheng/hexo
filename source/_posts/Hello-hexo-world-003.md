@@ -97,6 +97,6 @@ npm install hexo-renderer-marked --save
 
 ## TODO
 
-為了讓 markdown 語法可以簡單指定圖片大小，找到這篇[Hexo 中扩展 Markdown 语法设置图片的大小]<https://bobcn.github.io/2018/03/24/hexo_reset_image_size/>，看來是要多少了解 hexo 的 theme 架構以及一些 markdown parser 的觀念，剛好之後有一篇是要寫 theme 的，就留給那篇再來解決吧！
+為了讓 markdown 語法可以簡單指定圖片大小，找到這篇[Hexo 中扩展 Markdown 语法设置图片的大小](https://bobcn.github.io/2018/03/24/hexo_reset_image_size/)，看來是要多少了解 hexo 的 theme 架構以及一些 markdown parser 的觀念，剛好之後有一篇是要寫 theme 的，就留給那篇再來解決吧！
 
 - [ ] 增加 markdown 語法支援圖片設定大小的功能
